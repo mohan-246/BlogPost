@@ -10,6 +10,11 @@
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
+    align-items:center;
+}
+.nav{
+    display:flex;
+    flex-direction: row;
 }
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
